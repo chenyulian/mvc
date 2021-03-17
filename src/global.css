@@ -1,0 +1,8 @@
+
+body {
+    overflow: hidden;
+}
+.page {
+    display: flex;
+    flex-wrap: wrap;
+}
